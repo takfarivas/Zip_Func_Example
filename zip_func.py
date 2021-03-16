@@ -11,3 +11,6 @@ zipped = list(zip(items, counts, prices))
 # Printing how much we have to get for buying each
 for (item, count, price) in zipped:
     print(f'If you buy {count} {item} you will pay {count * price} $')
+
+    
+# No copyright stuff or smething free you can use it in every moment you want
